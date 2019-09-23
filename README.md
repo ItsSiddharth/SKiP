@@ -21,7 +21,7 @@ $ pip3 install -r requirements.txt
 
 > Unzip it and save the .txt file in the same folder as other files in the cloned repo
 
-4.Now use the 'loading_model.py' file to convert this model into a pickle file so that it loads fast
+4.Now use the ` loading_model.py ` file to convert this model into a pickle file so that it loads fast
 
 > Loading the model as a text file takes 9 minutes on my system but may vary in yours. The lead time will not go below 5 mins so pickling it is important as it brings down the load time in my system to 8 seconds.
 
@@ -33,9 +33,9 @@ $ pip3 install -r requirements.txt
 
 The <a href="https://www.youtube.com/watch?v=TlB_eWDSMt4&t=917s">Video</a> used to create the JSON in my repository is linked.
 
-6.Rename the JSON to ' data.json '.
+6.Rename the JSON to ` data.json `.
 
-7.Run the ' main.py ' script with the topic you want to jump to as an argument.
+7.Run the ` main.py ` script with the topic you want to jump to as an argument.
 
 > Here if I wanted to go to the part where Mosh taught Modules then I give a command as below
 
