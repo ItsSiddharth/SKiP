@@ -33,9 +33,9 @@ $ pip3 install -r requirements.txt
 
 The <a href="https://www.youtube.com/watch?v=TlB_eWDSMt4&t=917s">Video</a> used to create the JSON in my repository is linked.
 
-6.Rename the JSON to 'data.json'.
+6.Rename the JSON to ' data.json '.
 
-7.Run the 'main.py' script with the topic you want to jump to as an argument.
+7.Run the ' main.py ' script with the topic you want to jump to as an argument.
 
 > Here if I wanted to go to the part where Mosh taught Modules then I give a command as below
 
