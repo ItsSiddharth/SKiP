@@ -2,7 +2,7 @@
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/ItsSiddharth/SKiP/edit/master/LICENSE)
 
-:alarm_clock: SKiP is a tools designed to increase efficiency during your study hours.
+:arrows_counterclockwise: SKiP is a tools designed to increase efficiency during your study hours.
  
  ##Usage
 
@@ -29,14 +29,14 @@ The <a href="https://www.youtube.com/watch?v=TlB_eWDSMt4&t=917s">Video</a> used 
 
 > Here if I wanted to go to the part where Mosh taught Modules then I give a command as below
 
-'''
+```
 $ python main.py modules
-'''
+```
 > Say I wanted to go to the part where he teaches path module 
 
-'''
+```
 $ python main.py path
-'''
+```
 
 * NOTE : Please enter a single word as python argument.
 * NOTE : As a prerequisite have VLC media player installed.
