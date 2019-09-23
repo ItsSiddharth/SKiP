@@ -1,4 +1,4 @@
-<img src="./assets/SKIP_LOGO1.png" width="350" title="SKiP">
+<img src="./assets/SKiP_LOGO.png" width="350" title="SKiP">
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/ItsSiddharth/SKiP/edit/master/LICENSE)
 
