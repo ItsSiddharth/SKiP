@@ -50,3 +50,6 @@ $ python main.py path
 
 * **NOTE** : Please enter a single word as python argument.
 * **NOTE** : As a prerequisite have VLC media player installed.
+
+## LICENSE
+<a href="https://github.com/ItsSiddharth/SKiP/blob/master/LICENSE">MIT</a>
