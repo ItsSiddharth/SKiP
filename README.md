@@ -4,7 +4,7 @@
 
 :arrows_counterclockwise: SKiP is a tools designed to increase efficiency during your study hours.
  
- ##Usage
+ ## Usage
 
  1.Download <a href="http://nlp.stanford.edu/data/wordvecs/glove.6B.zip">glove.6B.zip</a> file from Standfords Github repository from the hyperlink.
  
