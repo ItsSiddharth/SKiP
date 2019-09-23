@@ -38,5 +38,5 @@ $ python main.py modules
 $ python main.py path
 ```
 
-* NOTE : Please enter a single word as python argument.
-* NOTE : As a prerequisite have VLC media player installed.
+* **NOTE** : Please enter a single word as python argument.
+* **NOTE** : As a prerequisite have VLC media player installed.
