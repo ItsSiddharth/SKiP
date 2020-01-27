@@ -29,8 +29,8 @@ $ pip3 install -r requirements.txt
 5.Now use the ` loading_model.py ` file to convert this model into a pickle file so that it loads fast
 
 > Loading the model as a text file takes 9 minutes on my system but may vary in yours. The lead time will not go below 5 mins so pickling it is important as it brings down the load time in my system to 8 seconds.
-``` You can download the ickled model from <a href="https://drive.google.com/file/d/1HJ8FWeEdWs0b_PinnS1VgXSNmaSCb-q7/view?usp=sharing">here</a>
-```
+> You can download the ickled model from <a href="https://drive.google.com/file/d/1HJ8FWeEdWs0b_PinnS1VgXSNmaSCb-q7/view?usp=sharing">here</a>
+
 6.Pass this code to an AWS bucket for it to transcribing i.
 
 > The JSON AWS returns after transcribing will be critical in later stages. 
